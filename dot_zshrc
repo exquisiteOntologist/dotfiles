@@ -1,0 +1,2 @@
+# Load the zshrc of our shell repo.
+source ~/dev/shell/entry.sh
